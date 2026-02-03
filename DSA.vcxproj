@@ -18,6 +18,22 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedList.c" />
+    <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedListExample.c" />
+    <ClCompile Include="DSA\LinkedList\LinkedList.c" />
+    <ClCompile Include="DSA\LinkedList\LinkedListExample.c" />
+    <ClCompile Include="DSA\main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DSA\DoublyLinkedList\DoublyLinkedList.h" />
+    <ClInclude Include="DSA\LinkedList\LinkedList.h" />
+    <ClInclude Include="DSA\Example.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+    <None Include="README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -122,13 +138,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="LinkedList.c" />
-    <ClCompile Include="예제.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="LinkedList.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

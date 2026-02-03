@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedListExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\DoublyLinkedList\\DoublyLinkedListExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\DoublyLinkedList\\DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\DoublyLinkedList\\DoublyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedListExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedList\\LinkedListExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedList\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedList\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Example.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\Example.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoublyLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.h",
+              "RelativeDocumentMoniker": "DSA\\DoublyLinkedList\\DoublyLinkedList.h",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.h",
+              "RelativeToolTip": "DSA\\DoublyLinkedList\\DoublyLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T06:12:35.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Example.h",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Example.h",
+              "RelativeDocumentMoniker": "DSA\\Example.h",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Example.h",
+              "RelativeToolTip": "DSA\\Example.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T06:06:12.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedList.h",
+              "RelativeDocumentMoniker": "DSA\\LinkedList\\LinkedList.h",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedList.h",
+              "RelativeToolTip": "DSA\\LinkedList\\LinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T06:00:44.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\main.c",
+              "RelativeDocumentMoniker": "DSA\\main.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\main.c",
+              "RelativeToolTip": "DSA\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-03T05:59:40.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoublyLinkedList.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.c",
+              "RelativeDocumentMoniker": "DSA\\DoublyLinkedList\\DoublyLinkedList.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.c",
+              "RelativeToolTip": "DSA\\DoublyLinkedList\\DoublyLinkedList.c",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-03T05:59:33.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoublyLinkedListExample.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedListExample.c",
+              "RelativeDocumentMoniker": "DSA\\DoublyLinkedList\\DoublyLinkedListExample.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedListExample.c",
+              "RelativeToolTip": "DSA\\DoublyLinkedList\\DoublyLinkedListExample.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-03T05:57:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinkedList.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedList.c",
+              "RelativeDocumentMoniker": "DSA\\LinkedList\\LinkedList.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedList.c",
+              "RelativeToolTip": "DSA\\LinkedList\\LinkedList.c",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-03T05:58:12.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinkedListExample.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedListExample.c",
+              "RelativeDocumentMoniker": "DSA\\LinkedList\\LinkedListExample.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedListExample.c",
+              "RelativeToolTip": "DSA\\LinkedList\\LinkedListExample.c",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-03T05:58:11.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

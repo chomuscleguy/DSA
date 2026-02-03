@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="DSA\LinkedList\LinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DSA\main.c" />
+    <ClCompile Include="DSA\LinkedList\LinkedListExample.c">
+      <Filter>예제 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedListExample.c">
+      <Filter>예제 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DSA\LinkedList\LinkedList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DSA\DoublyLinkedList\DoublyLinkedList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DSA\Example.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+    <None Include=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{c748e47a-c0a1-47f7-8709-d70275c69929}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{823c9a0c-af73-4345-84cf-512521e8389b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{7026d991-2e83-4a95-80b6-3b18876376dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="예제 파일">
+      <UniqueIdentifier>{571f6f36-7377-4591-870b-1729cdae3b77}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
