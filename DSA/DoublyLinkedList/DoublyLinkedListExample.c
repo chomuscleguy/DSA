@@ -4,25 +4,20 @@ int DoublyLinkedListExample(void)
 {
 	Node* list = NULL;
 	Node* cur = NULL;
+	int cnt = 0;
 
 	for (int i = 0; i < 5; i++)
 	{
 		Node* newNode = DLL_CreateNode(i);
-
-		if (newNode != NULL)
-			DLL_AppendNode(&list, newNode);
+		DLL_AppendNode(&list, newNode);
 	}
 
-	int cnt = DLL_GetNodeCount(list);
-	printf("List Size : %d\n", cnt);
+	cnt = DLL_GetNodeCount(list);
 
-	cur = list;
-	int index = 0;
-
-	while (cur != NULL)
+	for (int i = 0;i < cnt;i++)
 	{
-		printf("List[%d] : %d\n", index++, cur->data);
-		cur = cur->nextNode;
+		cur = DLL_GetNodeAt(list, i);
+		printf("List[%d] : %d\n", i, cur->data);
 	}
 
 	printf("\nInserting 3000 After [2]\n\n");
@@ -31,15 +26,11 @@ int DoublyLinkedListExample(void)
 	DLL_InsertAfter(cur, DLL_CreateNode(3000));
 
 	cnt = DLL_GetNodeCount(list);
-	printf("List Size : %d\n", cnt);
 
-	cur = list;
-	index = 0;
-
-	while (cur != NULL)
+	for (int i = 0; i < cnt; i++)
 	{
-		printf("List[%d] : %d\n", index++, cur->data);
-		cur = cur->nextNode;
+		cur = DLL_GetNodeAt(list, i);
+		printf("List[%d] : %d\n", i, cur->data);
 	}
 
 	printf("\nPrint Reverse\n\n");
@@ -48,11 +39,17 @@ int DoublyLinkedListExample(void)
 
 	printf("\nDestroying List...\n");
 
-	while (list != NULL)
+	cnt = DLL_GetNodeCount(list);
+
+	for (int i = 0; i < cnt;i++)
 	{
-		cur = list;
-		DLL_RemoveNode(&list, cur);
-		DLL_DestroyNode(cur);
+		cur = DLL_GetNodeAt(list, 0);
+
+		if (cur != NULL)
+		{
+			DLL_RemoveNode(&list, cur);
+			DLL_DestroyNode(cur);
+		}
 	}
 
 	return 0;

@@ -14,6 +14,8 @@
     <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedListExample.c">
       <Filter>예제 파일</Filter>
     </ClCompile>
+    <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.c" />
+    <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedListExample.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSA\LinkedList\LinkedList.h">
@@ -25,6 +27,7 @@
     <ClInclude Include="DSA\Example.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

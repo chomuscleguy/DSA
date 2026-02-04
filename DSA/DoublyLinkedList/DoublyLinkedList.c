@@ -34,7 +34,7 @@ void DLL_AppendNode(Node** head, Node* newNode)
 Node* DLL_GetNodeAt(Node* head, int Location)
 {
 	Node* cur = head;
-	while (cur != NULL && Location-- >= 0)
+	while (cur != NULL && Location-- > 0)
 		cur = cur->nextNode;
 
 	return cur;
@@ -46,7 +46,7 @@ void DLL_RemoveNode(Node** head, Node* Remove)
 	{
 		*head = Remove->nextNode;
 		if (*head != NULL)
-			(*head) ->prevNode = NULL;
+			(*head)->prevNode = NULL;
 
 		Remove->prevNode = NULL;
 		Remove->nextNode = NULL;
@@ -91,20 +91,21 @@ int DLL_GetNodeCount(Node* head)
 	return cnt;
 }
 
-void PrintReverse(Node* Head)
+void PrintReverse(Node* head)
 {
-	if (Head == NULL)
+	if (head == NULL)
 		return;
 
-	int index = DLL_GetNodeCount(Head) - 1;
+	int cnt = DLL_GetNodeCount(head) - 1;
 
-	Node* cur = Head;
+	Node* cur = head;
 	while (cur->nextNode != NULL)
 		cur = cur->nextNode;
 
-	while (cur != NULL)
+	for (int i = cnt; i >= 0;i--)
 	{
-		printf("List[%d] : %d\n", index--, cur->data);
+		printf("List[%d] : %d\n", i, cur->data);
 		cur = cur->prevNode;
 	}
+
 }

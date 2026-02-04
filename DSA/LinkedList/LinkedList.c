@@ -48,7 +48,7 @@ Node* SLL_GetNodeAt(Node* head, int location)
 {
 	Node* cur = head;
 
-	while (cur != NULL && location-- >= 0)
+	while (cur != NULL && location-- > 0)
 		cur = cur->nextNode;
 
 	return cur;

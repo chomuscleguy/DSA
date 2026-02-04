@@ -4,12 +4,13 @@
 
 extern void LinkedListExample(void);
 extern void DoublyLinkedListExample(void);
+extern void CircularLinkedListExample(void);
 
 static ExampleEntry examples[] =
 {
 	{ "LinkedList", LinkedListExample },
 	{"DoublyLinkedList", DoublyLinkedListExample},
-
+	{"CircularLinkedList", CircularLinkedListExample},
 };
 
 int main(void)
