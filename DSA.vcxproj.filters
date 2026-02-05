@@ -16,6 +16,10 @@
     </ClCompile>
     <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.c" />
     <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedListExample.c" />
+    <ClCompile Include="DSA\ArrayStack\ArrayStack.c" />
+    <ClCompile Include="DSA\ArrayStack\ArrayStackExample.c" />
+    <ClCompile Include="DSA\LinkedListStack\LinkedListStack.c" />
+    <ClCompile Include="DSA\LinkedListStack\LinkedListStackExample.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSA\LinkedList\LinkedList.h">
@@ -28,6 +32,8 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.h" />
+    <ClInclude Include="DSA\ArrayStack\ArrayStack.h" />
+    <ClInclude Include="DSA\LinkedListStack\LinkedListStack.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

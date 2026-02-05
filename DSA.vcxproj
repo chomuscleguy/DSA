@@ -19,17 +19,23 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DSA\ArrayStack\ArrayStack.c" />
+    <ClCompile Include="DSA\ArrayStack\ArrayStackExample.c" />
     <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.c" />
     <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedListExample.c" />
     <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedList.c" />
     <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedListExample.c" />
+    <ClCompile Include="DSA\LinkedListStack\LinkedListStack.c" />
+    <ClCompile Include="DSA\LinkedListStack\LinkedListStackExample.c" />
     <ClCompile Include="DSA\LinkedList\LinkedList.c" />
     <ClCompile Include="DSA\LinkedList\LinkedListExample.c" />
     <ClCompile Include="DSA\main.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DSA\ArrayStack\ArrayStack.h" />
     <ClInclude Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.h" />
     <ClInclude Include="DSA\DoublyLinkedList\DoublyLinkedList.h" />
+    <ClInclude Include="DSA\LinkedListStack\LinkedListStack.h" />
     <ClInclude Include="DSA\LinkedList\LinkedList.h" />
     <ClInclude Include="DSA\Example.h" />
   </ItemGroup>

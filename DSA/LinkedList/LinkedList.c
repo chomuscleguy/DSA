@@ -4,6 +4,9 @@ Node* SLL_CreateNode(ElementType newData)
 {
 	Node* newNode = (Node*)malloc(sizeof(*newNode));
 
+	if (newNode == NULL)
+		return;
+
 	newNode->data = newData;
 	newNode->nextNode = NULL;
 

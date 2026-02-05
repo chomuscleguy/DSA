@@ -4,6 +4,9 @@ Node* CDLL_CreateNode(ElementType newData)
 {
 	Node* newNode = (Node*)malloc(sizeof(*newNode));
 
+	if (newNode == NULL)
+		return;
+
 	newNode->data = newData;
 	newNode->prevNode = NULL;
 	newNode->nextNode = NULL;

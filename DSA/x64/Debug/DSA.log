@@ -1,2 +1,7 @@
-﻿  LinkedListExample.c
+﻿  LinkedListStack.c
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\LinkedListStack\LinkedListStack.c(32,32): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\LinkedListStack\LinkedListStack.c(34,2): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\LinkedListStack\LinkedListStack.c(69,25): warning C4554: '&': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+  LinkedListStackExample.c
+  코드를 생성하고 있습니다...
   DSA.vcxproj -> C:\Users\chomu\Desktop\project\GitHub\DSA\x64\Debug\DSA.exe
