@@ -14,12 +14,28 @@
     <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedListExample.c">
       <Filter>예제 파일</Filter>
     </ClCompile>
-    <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.c" />
-    <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedListExample.c" />
-    <ClCompile Include="DSA\ArrayStack\ArrayStack.c" />
-    <ClCompile Include="DSA\ArrayStack\ArrayStackExample.c" />
-    <ClCompile Include="DSA\LinkedListStack\LinkedListStack.c" />
-    <ClCompile Include="DSA\LinkedListStack\LinkedListStackExample.c" />
+    <ClCompile Include="DSA\ArrayStack\ArrayStackExample.c">
+      <Filter>예제 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedListExample.c">
+      <Filter>예제 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DSA\LinkedListStack\LinkedListStackExample.c">
+      <Filter>예제 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DSA\ArrayStack\ArrayStack.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DSA\Calculator\Calculator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DSA\LinkedListStack\LinkedListStack.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DSA\Calculator\CalculatorExample.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSA\LinkedList\LinkedList.h">
@@ -31,9 +47,18 @@
     <ClInclude Include="DSA\Example.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.h" />
-    <ClInclude Include="DSA\ArrayStack\ArrayStack.h" />
-    <ClInclude Include="DSA\LinkedListStack\LinkedListStack.h" />
+    <ClInclude Include="DSA\ArrayStack\ArrayStack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DSA\Calculator\Calculator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DSA\LinkedListStack\LinkedListStack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

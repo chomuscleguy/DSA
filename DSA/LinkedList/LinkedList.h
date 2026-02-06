@@ -1,6 +1,7 @@
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
 #pragma once
+
 #include "stdlib.h"
 #include "stdio.h"
 

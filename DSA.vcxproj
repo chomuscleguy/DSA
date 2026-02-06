@@ -21,6 +21,8 @@
   <ItemGroup>
     <ClCompile Include="DSA\ArrayStack\ArrayStack.c" />
     <ClCompile Include="DSA\ArrayStack\ArrayStackExample.c" />
+    <ClCompile Include="DSA\Calculator\Calculator.c" />
+    <ClCompile Include="DSA\Calculator\CalculatorExample.c" />
     <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.c" />
     <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedListExample.c" />
     <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedList.c" />
@@ -33,6 +35,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSA\ArrayStack\ArrayStack.h" />
+    <ClInclude Include="DSA\Calculator\Calculator.h" />
     <ClInclude Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.h" />
     <ClInclude Include="DSA\DoublyLinkedList\DoublyLinkedList.h" />
     <ClInclude Include="DSA\LinkedListStack\LinkedListStack.h" />

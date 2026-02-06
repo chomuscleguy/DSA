@@ -1,6 +1,7 @@
 #ifndef ARRAYSTACK_H
 #define ARRAYSTACK_H
 #pragma once
+
 #include "stdio.h"
 #include "stdlib.h"
 
