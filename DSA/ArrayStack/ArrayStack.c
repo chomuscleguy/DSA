@@ -7,7 +7,7 @@ void AS_CreateStack(ArrayStack** stack, int capacity)
 	if (*stack == NULL)
 		return;
 
-	(*stack)->nodes = (Node*)malloc(sizeof(Node) * capacity);
+	(*stack)->nodes = (Node*)malloc(sizeof(*(*stack)->nodes) * capacity);
 
 	(*stack)->capacity = capacity;
 	(*stack)->top = -1;
@@ -21,15 +21,58 @@ void AS_DestroyStack(ArrayStack* stack)
 
 void AS_Push(ArrayStack* stack, ElementType data)
 {
+	if (stack->top == stack->capacity)
+	{
+		int increase = (int)(stack->capacity * 0.3f);
+
+		if (increase < 1)
+			increase = 1;
+
+		int newCapacity = stack->capacity + increase;
+
+		Node* newNodes = (Node*)realloc(stack->nodes, sizeof(*newNodes) * newCapacity);
+
+		if (newNodes == NULL)
+			return;
+
+		stack->nodes = newNodes;
+		stack->capacity = newCapacity;
+	}
+
 	stack->top++;
 	stack->nodes[stack->top].data = data;
 }
 
 ElementType AS_Pop(ArrayStack* stack)
 {
-	int position = stack->top--;
-	return stack->nodes[position].data;
+	int position = stack->top;
+	ElementType data = stack->nodes[position].data;
+	stack->top--;
+
+	int used = stack->top + 1;
+
+	if (used > 0 && used < (int)(stack->capacity * 0.7f))
+	{
+		int newCapacity = (int)(stack->capacity * 0.7f);
+
+		if (newCapacity < 1)
+			newCapacity = 1;
+
+		if (newCapacity < used)
+			newCapacity = used;
+
+		Node* newNodes = (Node*)realloc(stack->nodes, sizeof(*newNodes) * newCapacity);
+
+		if (newNodes != NULL)
+		{
+			stack->nodes = newNodes;
+			stack->capacity = newCapacity;
+		}
+	}
+
+	return data;
 }
+
 
 ElementType AS_Top(ArrayStack* stack)
 {
