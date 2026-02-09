@@ -25,6 +25,8 @@
     <ClCompile Include="DSA\Calculator\CalculatorExample.c" />
     <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.c" />
     <ClCompile Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedListExample.c" />
+    <ClCompile Include="DSA\CircularQueue\CircularQueue.c" />
+    <ClCompile Include="DSA\CircularQueue\CircularQueueExample.c" />
     <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedList.c" />
     <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedListExample.c" />
     <ClCompile Include="DSA\LinkedListStack\LinkedListStack.c" />
@@ -37,6 +39,7 @@
     <ClInclude Include="DSA\ArrayStack\ArrayStack.h" />
     <ClInclude Include="DSA\Calculator\Calculator.h" />
     <ClInclude Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.h" />
+    <ClInclude Include="DSA\CircularQueue\CircularQueue.h" />
     <ClInclude Include="DSA\DoublyLinkedList\DoublyLinkedList.h" />
     <ClInclude Include="DSA\LinkedListStack\LinkedListStack.h" />
     <ClInclude Include="DSA\LinkedList\LinkedList.h" />

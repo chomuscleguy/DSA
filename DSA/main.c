@@ -8,6 +8,7 @@ extern void CircularLinkedListExample(void);
 extern void ArrayStackExample(void);
 extern void LinkedListStackExample(void);
 extern void CalculatorExample(void);
+extern void CircularQueueExample(void);
 
 static ExampleEntry examples[] =
 {
@@ -17,6 +18,7 @@ static ExampleEntry examples[] =
 	{"ArrayStack",ArrayStackExample},
 	{"LinkedListStack",LinkedListStackExample},
 	{"Calculator",CalculatorExample},
+	{"CircularQueue",CircularQueueExample}
 };
 
 int main(void)
