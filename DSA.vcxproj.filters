@@ -36,6 +36,10 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="DSA\Calculator\CalculatorExample.c" />
+    <ClCompile Include="DSA\CircularQueue\CircularQueue.c" />
+    <ClCompile Include="DSA\CircularQueue\CircularQueueExample.c" />
+    <ClCompile Include="DSA\LinkedQueue\LinkedQueue.c" />
+    <ClCompile Include="DSA\LinkedQueue\LinkedQueueExample.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSA\LinkedList\LinkedList.h">
@@ -59,6 +63,8 @@
     <ClInclude Include="DSA\LinkedListStack\LinkedListStack.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="DSA\CircularQueue\CircularQueue.h" />
+    <ClInclude Include="DSA\LinkedQueue\LinkedQueue.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

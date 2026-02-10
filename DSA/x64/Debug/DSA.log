@@ -1,4 +1,12 @@
-﻿  CircularQueue.c
-  CircularQueueExample.c
+﻿  LinkedQueueExample.c
+  main.c
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\main.c(16,18): warning C4133: '초기화 중': 'void (__cdecl *)(void)'과(와) 'ExampleFunc' 사이의 형식이 호환되지 않습니다.
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\main.c(17,23): warning C4133: '초기화 중': 'void (__cdecl *)(void)'과(와) 'ExampleFunc' 사이의 형식이 호환되지 않습니다.
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\main.c(18,25): warning C4133: '초기화 중': 'void (__cdecl *)(void)'과(와) 'ExampleFunc' 사이의 형식이 호환되지 않습니다.
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\main.c(19,16): warning C4133: '초기화 중': 'void (__cdecl *)(void)'과(와) 'ExampleFunc' 사이의 형식이 호환되지 않습니다.
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\main.c(20,21): warning C4133: '초기화 중': 'void (__cdecl *)(void)'과(와) 'ExampleFunc' 사이의 형식이 호환되지 않습니다.
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\main.c(21,16): warning C4133: '초기화 중': 'void (__cdecl *)(void)'과(와) 'ExampleFunc' 사이의 형식이 호환되지 않습니다.
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\main.c(22,19): warning C4133: '초기화 중': 'void (__cdecl *)(void)'과(와) 'ExampleFunc' 사이의 형식이 호환되지 않습니다.
+C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\main.c(23,17): warning C4133: '초기화 중': 'void (__cdecl *)(void)'과(와) 'ExampleFunc' 사이의 형식이 호환되지 않습니다.
   코드를 생성하고 있습니다...
   DSA.vcxproj -> C:\Users\chomu\Desktop\project\GitHub\DSA\x64\Debug\DSA.exe

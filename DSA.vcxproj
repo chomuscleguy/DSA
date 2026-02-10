@@ -33,6 +33,8 @@
     <ClCompile Include="DSA\LinkedListStack\LinkedListStackExample.c" />
     <ClCompile Include="DSA\LinkedList\LinkedList.c" />
     <ClCompile Include="DSA\LinkedList\LinkedListExample.c" />
+    <ClCompile Include="DSA\LinkedQueue\LinkedQueue.c" />
+    <ClCompile Include="DSA\LinkedQueue\LinkedQueueExample.c" />
     <ClCompile Include="DSA\main.c" />
   </ItemGroup>
   <ItemGroup>
@@ -44,6 +46,7 @@
     <ClInclude Include="DSA\LinkedListStack\LinkedListStack.h" />
     <ClInclude Include="DSA\LinkedList\LinkedList.h" />
     <ClInclude Include="DSA\Example.h" />
+    <ClInclude Include="DSA\LinkedQueue\LinkedQueue.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
