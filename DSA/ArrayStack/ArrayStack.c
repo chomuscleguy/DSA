@@ -5,7 +5,7 @@ void AS_CreateStack(ArrayStack** stack, int capacity)
 	*stack = (ArrayStack*)malloc(sizeof(**stack));
 
 	if (*stack == NULL)
-		return;
+		return NULL;
 
 	(*stack)->nodes = (Node*)malloc(sizeof(*(*stack)->nodes) * capacity);
 
@@ -33,7 +33,7 @@ void AS_Push(ArrayStack* stack, ElementType data)
 		Node* newNodes = (Node*)realloc(stack->nodes, sizeof(*newNodes) * newCapacity);
 
 		if (newNodes == NULL)
-			return;
+			return NULL;
 
 		stack->nodes = newNodes;
 		stack->capacity = newCapacity;

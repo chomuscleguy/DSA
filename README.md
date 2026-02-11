@@ -126,4 +126,8 @@ Circular Queue
 Linked Queue
 동적 메모리 할당/해제로 인해 오버헤드가 발생하며, 캐시 효율이 낮음
 
+## 2026-02-11 LCRS Tree
+C언어로 구현한 LCRS 트리(Left-Child Right-Sibling Tree) 예제입니다.
+자식 수가 가변적인 N-ary Tree를 효율적으로 표현하기 위해, 각 노드가 leftChild와 rightSibling 두 개의 포인터만을 가지는 구조로 설계했습니다.
+
 

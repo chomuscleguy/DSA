@@ -5,7 +5,7 @@ Node* DLL_CreateNode(ElementType newData)
 	Node* newNode = (Node*)malloc(sizeof(*newNode));
 
 	if (newNode == NULL)
-		return;
+		return NULL;
 
 	newNode->data = newData;
 	newNode->prevNode = NULL;

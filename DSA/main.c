@@ -10,17 +10,19 @@ extern void LinkedListStackExample(void);
 extern void CalculatorExample(void);
 extern void CircularQueueExample(void);
 extern void LinkedQueueExample(void);
+extern void LCRSTreeExample(void);
 
 static ExampleEntry examples[] =
 {
-	{ "LinkedList", LinkedListExample },
-	{"DoublyLinkedList", DoublyLinkedListExample},
-	{"CircularLinkedList", CircularLinkedListExample},
-	{"ArrayStack",ArrayStackExample},
-	{"LinkedListStack",LinkedListStackExample},
-	{"Calculator",CalculatorExample},
-	{"CircularQueue",CircularQueueExample},
-	{"LinkedQueue",LinkedQueueExample},
+	{ 0, LinkedListExample },
+	{1, DoublyLinkedListExample},
+	{2, CircularLinkedListExample},
+	{3,ArrayStackExample},
+	{4,LinkedListStackExample},
+	{5,CalculatorExample},
+	{6,CircularQueueExample},
+	{7,LinkedQueueExample},
+	{8,LCRSTreeExample},
 };
 
 int main(void)

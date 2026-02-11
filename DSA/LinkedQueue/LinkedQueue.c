@@ -26,6 +26,10 @@ void LQ_DestroyQueue(LinkedQueue* queue)
 Node* LQ_CreateNode(char* newData)
 {
 	Node* newNode = (Node*)malloc(sizeof(*newNode));
+
+	if (newNode == NULL)
+		return NULL;
+
 	newNode->data = (char*)malloc(strlen(newData) + 1);
 
 	strcpy(newNode->data, newData);

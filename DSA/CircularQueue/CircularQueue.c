@@ -5,7 +5,7 @@ void CQ_CreateQueue(CircularQueue** queue, int capacity)
 	*queue = (CircularQueue*)malloc(sizeof(**queue));
 
 	if (*queue == NULL)
-		return;
+		return NULL;
 
 	(*queue)->nodes = malloc(sizeof(*(*queue)->nodes) * (capacity + 1));
 

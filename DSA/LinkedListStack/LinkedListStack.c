@@ -5,7 +5,7 @@ void LLS_CreateStack(LinkedListStack** stack)
 	*stack = (LinkedListStack*)malloc(sizeof(**stack));
 
 	if (*stack == NULL)
-		return;
+		return NULL;
 
 	(*stack)->list = NULL;
 	(*stack)->top = NULL;

@@ -6,7 +6,7 @@ typedef int (*ExampleFunc)(void);
 
 typedef struct 
 {
-    const char* name;
+    const int index;
     ExampleFunc run;
 } ExampleEntry;
 

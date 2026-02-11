@@ -40,6 +40,8 @@
     <ClCompile Include="DSA\CircularQueue\CircularQueueExample.c" />
     <ClCompile Include="DSA\LinkedQueue\LinkedQueue.c" />
     <ClCompile Include="DSA\LinkedQueue\LinkedQueueExample.c" />
+    <ClCompile Include="DSA\LCRSTree\LCRSTree.c" />
+    <ClCompile Include="DSA\LCRSTree\LCRSTreeExample.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSA\LinkedList\LinkedList.h">
@@ -65,6 +67,7 @@
     </ClInclude>
     <ClInclude Include="DSA\CircularQueue\CircularQueue.h" />
     <ClInclude Include="DSA\LinkedQueue\LinkedQueue.h" />
+    <ClInclude Include="DSA\LCRSTree\LCRSTree.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
