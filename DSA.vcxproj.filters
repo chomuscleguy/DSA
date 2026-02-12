@@ -42,6 +42,8 @@
     <ClCompile Include="DSA\LinkedQueue\LinkedQueueExample.c" />
     <ClCompile Include="DSA\LCRSTree\LCRSTree.c" />
     <ClCompile Include="DSA\LCRSTree\LCRSTreeExample.c" />
+    <ClCompile Include="DSA\BinaryTree\BinaryTree.c" />
+    <ClCompile Include="DSA\BinaryTree\BinaryTreeExample.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSA\LinkedList\LinkedList.h">
@@ -68,6 +70,7 @@
     <ClInclude Include="DSA\CircularQueue\CircularQueue.h" />
     <ClInclude Include="DSA\LinkedQueue\LinkedQueue.h" />
     <ClInclude Include="DSA\LCRSTree\LCRSTree.h" />
+    <ClInclude Include="DSA\BinaryTree\BinaryTree.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

@@ -38,6 +38,8 @@
     <ClCompile Include="DSA\LinkedQueue\LinkedQueue.c" />
     <ClCompile Include="DSA\LinkedQueue\LinkedQueueExample.c" />
     <ClCompile Include="DSA\main.c" />
+    <ClCompile Include="DSA\BinaryTree\BinaryTree.c" />
+    <ClCompile Include="DSA\BinaryTree\BinaryTreeExample.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSA\ArrayStack\ArrayStack.h" />
@@ -50,6 +52,7 @@
     <ClInclude Include="DSA\LinkedList\LinkedList.h" />
     <ClInclude Include="DSA\Example.h" />
     <ClInclude Include="DSA\LinkedQueue\LinkedQueue.h" />
+    <ClInclude Include="DSA\BinaryTree\BinaryTree.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />

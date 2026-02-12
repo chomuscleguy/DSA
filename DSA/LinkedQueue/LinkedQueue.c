@@ -5,7 +5,7 @@ void LQ_CreateQueue(LinkedQueue** queue)
 	*queue = (LinkedQueue*)malloc(sizeof(**queue));
 
 	if ((*queue) == NULL)
-		return;
+		return NULL;
 
 	(*queue)->front = NULL;
 	(*queue)->rear = NULL;

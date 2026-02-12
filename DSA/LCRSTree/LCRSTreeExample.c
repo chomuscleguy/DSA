@@ -29,6 +29,8 @@ int LCRSTreeExample(void)
 
 	LCRS_PrintTree(root, 0);
 
+	LCRS_PrintNodesAtLevel(root, 0, 2);
+
 	LCRS_DestroyTree(root);
 
 	return 0;

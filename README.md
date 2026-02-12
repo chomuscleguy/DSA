@@ -124,10 +124,12 @@ Circular Queue
 연속 메모리 사용으로 캐시 효율이 높고, 삽입·삭제 연산이 빠름
 
 Linked Queue
-동적 메모리 할당/해제로 인해 오버헤드가 발생하며, 캐시 효율이 낮음
+동적 메모리 할당/해제로 인해 오버헤드가 발생하며, 캐시 효율이 낮음s
 
 ## 2026-02-11 LCRS Tree
 C언어로 구현한 LCRS 트리(Left-Child Right-Sibling Tree) 예제입니다.
 자식 수가 가변적인 N-ary Tree를 효율적으로 표현하기 위해, 각 노드가 leftChild와 rightSibling 두 개의 포인터만을 가지는 구조로 설계했습니다.
 
-
+## 2026-02-12 Binary Tree
+C언어로 구현한 이진 트리(Binary Tree) 예제입니다.
+각 노드가 최대 두 개의 자식 노드(left, right)를 가지는 계층 구조로 구성했으며, 동적 메모리 할당을 통해 트리를 생성하고 해제하도록 구현했습니다.

@@ -3,44 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\BinaryTree\\BinaryTree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\BinaryTree\\BinaryTree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\ArrayStack\\ArrayStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\BinaryTree\\BinaryTreeExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\BinaryTree\\BinaryTreeExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\CalculatorExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\Calculator\\CalculatorExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\BinaryTree\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\BinaryTree\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LCRSTree\\LCRSTree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedQueue\\LinkedQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedQueue\\LinkedQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedListStack\\LinkedListStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueueExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedQueue\\LinkedQueueExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTreeExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LCRSTree\\LCRSTreeExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LCRSTree\\LCRSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\Calculator\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedListStack\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedQueue\\LinkedQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedListStack\\LinkedListStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedQueue\\LinkedQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LCRSTree\\LCRSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Example.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\Example.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTreeExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LCRSTree\\LCRSTreeExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueueExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedQueue\\LinkedQueueExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\ArrayStack\\ArrayStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\Calculator\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularQueue\\CircularQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\CircularQueue\\CircularQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\DoublyLinkedList\\DoublyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedListStack\\LinkedListStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -51,16 +103,8 @@
       "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\DoublyLinkedList\\DoublyLinkedListExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStackExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedListStack\\LinkedListStackExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularQueue\\CircularQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\CircularQueue\\CircularQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularQueue\\CircularQueueExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -71,40 +115,12 @@
       "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\CircularQueue\\CircularQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\Calculator\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\Calculator\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\CalculatorExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\Calculator\\CalculatorExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\ArrayStack\\ArrayStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\ArrayStack\\ArrayStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStackExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\ArrayStack\\ArrayStackExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\DoublyLinkedList\\DoublyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -113,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\LinkedList\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|solutionrelative:DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FCF9BC9-D2B9-409C-9505-58667E7777C1}|DSA.vcxproj|C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedListExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -142,24 +154,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinaryTreeExample.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\BinaryTree\\BinaryTreeExample.c",
+              "RelativeDocumentMoniker": "DSA\\BinaryTree\\BinaryTreeExample.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\BinaryTree\\BinaryTreeExample.c",
+              "RelativeToolTip": "DSA\\BinaryTree\\BinaryTreeExample.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-12T08:16:03.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinaryTree.h",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\BinaryTree\\BinaryTree.h",
+              "RelativeDocumentMoniker": "DSA\\BinaryTree\\BinaryTree.h",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\BinaryTree\\BinaryTree.h",
+              "RelativeToolTip": "DSA\\BinaryTree\\BinaryTree.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-12T08:15:55.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BinaryTree.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\BinaryTree\\BinaryTree.c",
+              "RelativeDocumentMoniker": "DSA\\BinaryTree\\BinaryTree.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\BinaryTree\\BinaryTree.c",
+              "RelativeToolTip": "DSA\\BinaryTree\\BinaryTree.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-12T08:15:51.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LCRSTree.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTree.c",
               "RelativeDocumentMoniker": "DSA\\LCRSTree\\LCRSTree.c",
               "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTree.c",
               "RelativeToolTip": "DSA\\LCRSTree\\LCRSTree.c",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-02-11T07:13:01.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
+              "Title": "LinkedQueue.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueue.c",
+              "RelativeDocumentMoniker": "DSA\\LinkedQueue\\LinkedQueue.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueue.c",
+              "RelativeToolTip": "DSA\\LinkedQueue\\LinkedQueue.c",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-10T06:45:05.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Calculator.h",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\Calculator.h",
               "RelativeDocumentMoniker": "DSA\\Calculator\\Calculator.h",
@@ -167,114 +231,151 @@
               "RelativeToolTip": "DSA\\Calculator\\Calculator.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-06T05:39:33.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Calculator.c",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\Calculator.c",
-              "RelativeDocumentMoniker": "DSA\\Calculator\\Calculator.c",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\Calculator.c",
-              "RelativeToolTip": "DSA\\Calculator\\Calculator.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-06T05:39:30.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-05T08:10:37.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LinkedListStack.h",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.h",
-              "RelativeDocumentMoniker": "DSA\\LinkedListStack\\LinkedListStack.h",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.h",
-              "RelativeToolTip": "DSA\\LinkedListStack\\LinkedListStack.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-05T07:29:52.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DoublyLinkedList.h",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.h",
-              "RelativeDocumentMoniker": "DSA\\DoublyLinkedList\\DoublyLinkedList.h",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.h",
-              "RelativeToolTip": "DSA\\DoublyLinkedList\\DoublyLinkedList.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-03T06:12:35.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinkedQueue.c",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueue.c",
-              "RelativeDocumentMoniker": "DSA\\LinkedQueue\\LinkedQueue.c",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueue.c",
-              "RelativeToolTip": "DSA\\LinkedQueue\\LinkedQueue.c",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-10T06:45:05.13Z",
+              "WhenOpened": "2026-02-06T05:39:33.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Example.h",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Example.h",
-              "RelativeDocumentMoniker": "DSA\\Example.h",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Example.h",
-              "RelativeToolTip": "DSA\\Example.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-03T06:06:12.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\main.c",
               "RelativeDocumentMoniker": "DSA\\main.c",
               "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\main.c",
               "RelativeToolTip": "DSA\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-02-03T05:59:40.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "CircularDoublyLinkedListExample.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c",
+              "RelativeDocumentMoniker": "DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c",
+              "RelativeToolTip": "DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-05T07:00:36.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LCRSTreeExample.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTreeExample.c",
+              "RelativeDocumentMoniker": "DSA\\LCRSTree\\LCRSTreeExample.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTreeExample.c",
+              "RelativeToolTip": "DSA\\LCRSTree\\LCRSTreeExample.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-11T07:13:29.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorExample.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\CalculatorExample.c",
+              "RelativeDocumentMoniker": "DSA\\Calculator\\CalculatorExample.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\CalculatorExample.c",
+              "RelativeToolTip": "DSA\\Calculator\\CalculatorExample.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-06T06:39:29.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayStack.h",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.h",
+              "RelativeDocumentMoniker": "DSA\\ArrayStack\\ArrayStack.h",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.h",
+              "RelativeToolTip": "DSA\\ArrayStack\\ArrayStack.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T05:42:12.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LinkedListStack.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.c",
+              "RelativeDocumentMoniker": "DSA\\LinkedListStack\\LinkedListStack.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.c",
+              "RelativeToolTip": "DSA\\LinkedListStack\\LinkedListStack.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-05T07:29:52.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "LinkedQueue.h",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueue.h",
               "RelativeDocumentMoniker": "DSA\\LinkedQueue\\LinkedQueue.h",
               "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueue.h",
               "RelativeToolTip": "DSA\\LinkedQueue\\LinkedQueue.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-10T06:45:16.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
+              "Title": "Calculator.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\Calculator.c",
+              "RelativeDocumentMoniker": "DSA\\Calculator\\Calculator.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\Calculator.c",
+              "RelativeToolTip": "DSA\\Calculator\\Calculator.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAMEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-06T05:39:30.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CircularDoublyLinkedList.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c",
+              "RelativeDocumentMoniker": "DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c",
+              "RelativeToolTip": "DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-05T05:42:29.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CircularQueue.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularQueue\\CircularQueue.c",
+              "RelativeDocumentMoniker": "DSA\\CircularQueue\\CircularQueue.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularQueue\\CircularQueue.c",
+              "RelativeToolTip": "DSA\\CircularQueue\\CircularQueue.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-09T06:32:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DoublyLinkedList.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.c",
+              "RelativeDocumentMoniker": "DSA\\DoublyLinkedList\\DoublyLinkedList.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.c",
+              "RelativeToolTip": "DSA\\DoublyLinkedList\\DoublyLinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-03T05:59:33.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "LinkedQueueExample.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedQueue\\LinkedQueueExample.c",
               "RelativeDocumentMoniker": "DSA\\LinkedQueue\\LinkedQueueExample.c",
@@ -287,70 +388,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LinkedListStack.c",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.c",
-              "RelativeDocumentMoniker": "DSA\\LinkedListStack\\LinkedListStack.c",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.c",
-              "RelativeToolTip": "DSA\\LinkedListStack\\LinkedListStack.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-05T07:29:52.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "LCRSTree.h",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTree.h",
               "RelativeDocumentMoniker": "DSA\\LCRSTree\\LCRSTree.h",
               "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTree.h",
               "RelativeToolTip": "DSA\\LCRSTree\\LCRSTree.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-11T07:13:04.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LCRSTreeExample.c",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTreeExample.c",
-              "RelativeDocumentMoniker": "DSA\\LCRSTree\\LCRSTreeExample.c",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LCRSTree\\LCRSTreeExample.c",
-              "RelativeToolTip": "DSA\\LCRSTree\\LCRSTreeExample.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-11T07:13:29.953Z",
+              "DocumentIndex": 14,
+              "Title": "Example.h",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Example.h",
+              "RelativeDocumentMoniker": "DSA\\Example.h",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Example.h",
+              "RelativeToolTip": "DSA\\Example.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T06:06:12.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CalculatorExample.c",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\CalculatorExample.c",
-              "RelativeDocumentMoniker": "DSA\\Calculator\\CalculatorExample.c",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\Calculator\\CalculatorExample.c",
-              "RelativeToolTip": "DSA\\Calculator\\CalculatorExample.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-06T06:39:29.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CircularQueue.c",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularQueue\\CircularQueue.c",
-              "RelativeDocumentMoniker": "DSA\\CircularQueue\\CircularQueue.c",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularQueue\\CircularQueue.c",
-              "RelativeToolTip": "DSA\\CircularQueue\\CircularQueue.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-09T06:32:11.187Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAH4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-05T08:10:37.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ArrayStack.c",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.c",
+              "RelativeDocumentMoniker": "DSA\\ArrayStack\\ArrayStack.c",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.c",
+              "RelativeToolTip": "DSA\\ArrayStack\\ArrayStack.c",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-05T05:42:04.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DoublyLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.h",
+              "RelativeDocumentMoniker": "DSA\\DoublyLinkedList\\DoublyLinkedList.h",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.h",
+              "RelativeToolTip": "DSA\\DoublyLinkedList\\DoublyLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T06:12:35.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LinkedListStack.h",
+              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.h",
+              "RelativeDocumentMoniker": "DSA\\LinkedListStack\\LinkedListStack.h",
+              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStack.h",
+              "RelativeToolTip": "DSA\\LinkedListStack\\LinkedListStack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T07:29:52.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "CircularQueue.h",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularQueue\\CircularQueue.h",
               "RelativeDocumentMoniker": "DSA\\CircularQueue\\CircularQueue.h",
@@ -362,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "CircularQueueExample.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularQueue\\CircularQueueExample.c",
               "RelativeDocumentMoniker": "DSA\\CircularQueue\\CircularQueueExample.c",
@@ -374,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "DoublyLinkedListExample.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedListExample.c",
               "RelativeDocumentMoniker": "DSA\\DoublyLinkedList\\DoublyLinkedListExample.c",
@@ -382,12 +495,11 @@
               "RelativeToolTip": "DSA\\DoublyLinkedList\\DoublyLinkedListExample.c",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-03T05:57:39.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T05:57:39.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "LinkedListStackExample.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedListStack\\LinkedListStackExample.c",
               "RelativeDocumentMoniker": "DSA\\LinkedListStack\\LinkedListStackExample.c",
@@ -399,19 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CircularDoublyLinkedListExample.c",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c",
-              "RelativeDocumentMoniker": "DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c",
-              "RelativeToolTip": "DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedListExample.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-05T07:00:36.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "CircularDoublyLinkedList.h",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.h",
               "RelativeDocumentMoniker": "DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.h",
@@ -423,19 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CircularDoublyLinkedList.c",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c",
-              "RelativeDocumentMoniker": "DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c",
-              "RelativeToolTip": "DSA\\CircularDoublyLinkedList\\CircularDoublyLinkedList.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-05T05:42:29.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "ArrayStackExample.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStackExample.c",
               "RelativeDocumentMoniker": "DSA\\ArrayStack\\ArrayStackExample.c",
@@ -447,31 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ArrayStack.h",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.h",
-              "RelativeDocumentMoniker": "DSA\\ArrayStack\\ArrayStack.h",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.h",
-              "RelativeToolTip": "DSA\\ArrayStack\\ArrayStack.h",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-05T05:42:12.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ArrayStack.c",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.c",
-              "RelativeDocumentMoniker": "DSA\\ArrayStack\\ArrayStack.c",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\ArrayStack\\ArrayStack.c",
-              "RelativeToolTip": "DSA\\ArrayStack\\ArrayStack.c",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAmwEYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-05T05:42:04.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "CircularLinkedListExample.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularLinkedList\\CircularLinkedListExample.c",
               "RelativeDocumentMoniker": "DSA\\CircularLinkedList\\CircularLinkedListExample.c",
@@ -483,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "CircularLinkedList.h",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularLinkedList\\CircularLinkedList.h",
               "RelativeDocumentMoniker": "DSA\\CircularLinkedList\\CircularLinkedList.h",
@@ -495,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "CircularLinkedList.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\CircularLinkedList\\CircularLinkedList.c",
               "RelativeDocumentMoniker": "DSA\\CircularLinkedList\\CircularLinkedList.c",
@@ -507,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "LinkedList.h",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedList.h",
               "RelativeDocumentMoniker": "DSA\\LinkedList\\LinkedList.h",
@@ -519,19 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DoublyLinkedList.c",
-              "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.c",
-              "RelativeDocumentMoniker": "DSA\\DoublyLinkedList\\DoublyLinkedList.c",
-              "ToolTip": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\DoublyLinkedList\\DoublyLinkedList.c",
-              "RelativeToolTip": "DSA\\DoublyLinkedList\\DoublyLinkedList.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-03T05:59:33.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "LinkedList.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedList.c",
               "RelativeDocumentMoniker": "DSA\\LinkedList\\LinkedList.c",
@@ -543,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "LinkedListExample.c",
               "DocumentMoniker": "C:\\Users\\chomu\\Desktop\\project\\GitHub\\DSA\\DSA\\LinkedList\\LinkedListExample.c",
               "RelativeDocumentMoniker": "DSA\\LinkedList\\LinkedListExample.c",
