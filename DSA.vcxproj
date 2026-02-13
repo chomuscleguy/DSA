@@ -29,6 +29,8 @@
     <ClCompile Include="DSA\CircularQueue\CircularQueueExample.c" />
     <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedList.c" />
     <ClCompile Include="DSA\DoublyLinkedList\DoublyLinkedListExample.c" />
+    <ClCompile Include="DSA\ExpressionTree\ExpressionTree.c" />
+    <ClCompile Include="DSA\ExpressionTree\ExpressionTreeExample.c" />
     <ClCompile Include="DSA\LCRSTree\LCRSTree.c" />
     <ClCompile Include="DSA\LCRSTree\LCRSTreeExample.c" />
     <ClCompile Include="DSA\LinkedListStack\LinkedListStack.c" />
@@ -47,6 +49,7 @@
     <ClInclude Include="DSA\CircularDoublyLinkedList\CircularDoublyLinkedList.h" />
     <ClInclude Include="DSA\CircularQueue\CircularQueue.h" />
     <ClInclude Include="DSA\DoublyLinkedList\DoublyLinkedList.h" />
+    <ClInclude Include="DSA\ExpressionTree\ExpressionTree.h" />
     <ClInclude Include="DSA\LCRSTree\LCRSTree.h" />
     <ClInclude Include="DSA\LinkedListStack\LinkedListStack.h" />
     <ClInclude Include="DSA\LinkedList\LinkedList.h" />

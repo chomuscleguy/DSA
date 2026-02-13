@@ -133,3 +133,7 @@ C언어로 구현한 LCRS 트리(Left-Child Right-Sibling Tree) 예제입니다.
 ## 2026-02-12 Binary Tree
 C언어로 구현한 이진 트리(Binary Tree) 예제입니다.
 각 노드가 최대 두 개의 자식 노드(left, right)를 가지는 계층 구조로 구성했으며, 동적 메모리 할당을 통해 트리를 생성하고 해제하도록 구현했습니다.
+
+## 2026-02-13 Expression Tree
+C언어로 구현한 수식 트리(Expression Tree) 예제입니다.
+후위 표기식(Postfix Expression)을 입력으로 받아 문자열의 끝에서부터 토큰을 하나씩 처리하며 재귀적으로 트리를 구성하도록 구현했습니다.

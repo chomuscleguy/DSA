@@ -12,6 +12,7 @@ extern void CircularQueueExample(void);
 extern void LinkedQueueExample(void);
 extern void LCRSTreeExample(void);
 extern void BinaryTreeExample(void);
+extern void ExpressionTreeExample(void);
 
 static ExampleEntry examples[] =
 {
@@ -25,6 +26,7 @@ static ExampleEntry examples[] =
 	{7,LinkedQueueExample},
 	{8,LCRSTreeExample},
 	{9,BinaryTreeExample},
+	{10,ExpressionTreeExample},
 };
 
 int main(void)

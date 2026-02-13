@@ -44,6 +44,8 @@
     <ClCompile Include="DSA\LCRSTree\LCRSTreeExample.c" />
     <ClCompile Include="DSA\BinaryTree\BinaryTree.c" />
     <ClCompile Include="DSA\BinaryTree\BinaryTreeExample.c" />
+    <ClCompile Include="DSA\ExpressionTree\ExpressionTree.c" />
+    <ClCompile Include="DSA\ExpressionTree\ExpressionTreeExample.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSA\LinkedList\LinkedList.h">
@@ -71,6 +73,7 @@
     <ClInclude Include="DSA\LinkedQueue\LinkedQueue.h" />
     <ClInclude Include="DSA\LCRSTree\LCRSTree.h" />
     <ClInclude Include="DSA\BinaryTree\BinaryTree.h" />
+    <ClInclude Include="DSA\ExpressionTree\ExpressionTree.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
