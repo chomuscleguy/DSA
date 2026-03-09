@@ -46,6 +46,8 @@
     <ClCompile Include="DSA\BinaryTree\BinaryTreeExample.c" />
     <ClCompile Include="DSA\ExpressionTree\ExpressionTree.c" />
     <ClCompile Include="DSA\ExpressionTree\ExpressionTreeExample.c" />
+    <ClCompile Include="DSA\DisjoingSet\DisjointSet.c" />
+    <ClCompile Include="DSA\DisjoingSet\DisjointSetExample.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSA\LinkedList\LinkedList.h">
@@ -74,6 +76,7 @@
     <ClInclude Include="DSA\LCRSTree\LCRSTree.h" />
     <ClInclude Include="DSA\BinaryTree\BinaryTree.h" />
     <ClInclude Include="DSA\ExpressionTree\ExpressionTree.h" />
+    <ClInclude Include="DSA\DisjoingSet\DisjointSet.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

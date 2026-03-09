@@ -1,9 +1,2 @@
-﻿  ExpressionTree.c
-C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\ExpressionTree\ExpressionTree.c(23,3): warning C4098: 'ET_DestroyTree': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\ExpressionTree\ExpressionTree.c(33,3): warning C4098: 'ET_PreorderPrintTree': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\ExpressionTree\ExpressionTree.c(44,3): warning C4098: 'ET_InorderPrintTree': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\ExpressionTree\ExpressionTree.c(59,3): warning C4098: 'ET_PostorderPrintTree': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\ExpressionTree\ExpressionTree.c(69,12): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\ExpressionTree\ExpressionTree.c(114,3): warning C4013: 'memset'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\chomu\Desktop\project\GitHub\DSA\DSA\ExpressionTree\ExpressionTree.c(13,1): warning C4715: 'ET_CreateNode': 모든 제어 경로에서 값을 반환하지는 않습니다.
+﻿  DisjointSetExample.c
   DSA.vcxproj -> C:\Users\chomu\Desktop\project\GitHub\DSA\x64\Debug\DSA.exe

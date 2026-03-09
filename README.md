@@ -137,3 +137,7 @@ C언어로 구현한 이진 트리(Binary Tree) 예제입니다.
 ## 2026-02-13 Expression Tree
 C언어로 구현한 수식 트리(Expression Tree) 예제입니다.
 후위 표기식(Postfix Expression)을 입력으로 받아 문자열의 끝에서부터 토큰을 하나씩 처리하며 재귀적으로 트리를 구성하도록 구현했습니다.
+
+## 2026-03-09 DisjoingSet
+C언어로 구현한 Disjoint Set(Union-Find) 자료구조입니다.
+서로 겹치지 않는 집합들을 관리하기 위한 구조로, 트리 기반으로 각 집합을 표현합니다.
